@@ -24,9 +24,7 @@
 
 E-learning platform website for competition Exam
 
-Live Demo : https://codingvivek.github.io/educator/
-
-Features :
+#Features :
 
 - Responsive Website
 - Navigation Bar Color Change on Scrolling
@@ -34,7 +32,7 @@ Features :
 - Modals
 - Overlay Image
 
-Menu / Layout :
+#Menu / Layout :
 
 - Navigation Bar
 - Home
