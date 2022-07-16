@@ -24,7 +24,7 @@
 
 E-learning platform website for competition Exam
 
-#Features :
+**Features :**
 
 - Responsive Website
 - Navigation Bar Color Change on Scrolling
@@ -32,7 +32,7 @@ E-learning platform website for competition Exam
 - Modals
 - Overlay Image
 
-#Menu / Layout :
+**Menu / Layout :**
 
 - Navigation Bar
 - Home
