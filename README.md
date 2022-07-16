@@ -1,4 +1,4 @@
-# Educator-Elearning-Website
+# Educator
 
 E-learning platform website for competition Exam
 
