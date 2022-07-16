@@ -4,7 +4,7 @@
   <h1 align="center">E-Learning Website✨</h1>
 
   <p align="center">
-    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
+    It is a personal static website/E-Learning template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
     <a href="https://codingvivek.github.io/educator/">codingvivek.github.io/educator</a>
     <br />
     <br />
